@@ -1,8 +1,6 @@
 import os
 import json
-import tabulate
 import pandas as pd
-import seaborn as sb
 import numpy as np
 import requests
 import io
